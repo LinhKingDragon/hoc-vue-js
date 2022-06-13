@@ -1,0 +1,27 @@
+Cấu trúc thư mục:
++src: source code
+	+ main.js
+	+ App.vue là componet gốc
+	+ assets: hình ảnh font chữ.
+	+Component => chứa các component
++Component
+	+ có 3 thành phần.
+		+Template: html ==> hiển thị:
+		+Script: JS ==> xử lý.
+		+Style: css ==> làm đẹp.
+		-Hỗ trợ scss:
+		+scoped style dành riêng cho component 
++ tạo một component
+	+Tạo file .vue
+	+Import
+	+Khai bao
++Root element:
+	+ Bắt buộc.
++ 2 ways binding:
+	+ Dữ liệu 2 chiều.
+
+
+
+
+
+-vue-cli-service serve
